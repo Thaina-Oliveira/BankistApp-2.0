@@ -37,8 +37,8 @@ thaina-oliveira.github.io/Bankist-App/
 - **💻 JavaScript:** For adding interactivity and functionality.
 
 ## 🔗Preview Current Project
+https://github.com/Thaina-Oliveira/BankistApp-2.0/assets/138075601/c5c212e9-ae08-461a-b097-2e40a32cca8d
 
-https://github.com/Thaina-Oliveira/BankistApp-2.0/assets/138075601/90bddd34-1132-4552-9722-e13cc6f1490f
 
 
 ## 📝 How to Use
